@@ -1,6 +1,6 @@
 # CS2 SkinChanger
 
-🔫 **CS2 SkinChanger** is a local client-side tool that allows you to change weapon skins, gloves, knives, and stickers in **Counter-Strike 2** (CS2).
+🔫 **CS2 SkinChanger** is a client-side tool that allows you to change weapon skins, gloves, knives, and stickers in **Counter-Strike 2** (CS2).
 
 > ⚠️ **Disclaimer**: This tool is intended for **educational**.
 ---
